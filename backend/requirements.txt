@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-openai
-langchain
+openai==0.28
+langchain==0.0.330
 langchain_community
 sqlalchemy
 psycopg2-binary
